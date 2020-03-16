@@ -3,10 +3,10 @@
   url: https://atlinker.cn/
   describe: Link's Blog
 
-- name: Daily
+- name: Tao
   image: https://atlinker.cn/avatar/default.png
-  url: https：//linker.ml/daily/
-  describe: Daily
+  url: https://taoqz.xyz/book
+  describe: gitbook
 
 # - name: Links Name
 #  image: http://example.com/img.png
